@@ -46,5 +46,24 @@
     let area = 0.5 * b * h
 
     console.log("Area of triangle is : ", area)
-    
+
+}
+
+// 5) JavaScript Program to Swap Two Variables 
+
+{
+
+    let a = 5;
+    let b = 10;
+
+    console.log("Before swapping:");
+    console.log("a =", a, "b =", b);
+
+    let temp = a;
+    a = b;
+    b = temp;
+
+    console.log("After swapping:");
+    console.log("a =", a, "b =", b);
+
 }
