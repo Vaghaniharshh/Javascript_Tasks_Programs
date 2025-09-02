@@ -1,4 +1,4 @@
-// 5) JavaScript Program to Swap Two Variables 
+//  JavaScript Program to Swap Two Variables 
 
 {
 

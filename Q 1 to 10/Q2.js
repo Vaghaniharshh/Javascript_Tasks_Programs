@@ -1,4 +1,4 @@
-// 2) JavaScript Program to Add Two Numbers 
+//  JavaScript Program to Add Two Numbers 
 
 {
     let a = 10

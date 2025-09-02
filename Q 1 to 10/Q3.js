@@ -1,4 +1,4 @@
-// 3) JavaScript Program to Find the Square Root 
+//  JavaScript Program to Find the Square Root 
 
 {
     let number = 16;

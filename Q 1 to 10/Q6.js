@@ -1,4 +1,4 @@
-// 6) JavaScript Program to Calculate the Area of a Triangle
+//  JavaScript Program to Calculate the Area of a Triangle
 
 
 {

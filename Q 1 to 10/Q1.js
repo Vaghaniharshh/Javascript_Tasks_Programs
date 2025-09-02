@@ -1,4 +1,4 @@
-// 1) JavaScript Program To Print Hello World 
+// JavaScript Program To Print Hello World 
 
 {
     console.log("Hello World")
